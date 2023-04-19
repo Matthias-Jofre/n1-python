@@ -4,6 +4,8 @@
 
 #### **1.** Realiza un programa que permita sumar, restar y multiplicar 'n' cantidad de números. El programa al finalizar debe preguntarle al usuario si desea realizar una nueva operación. 
 
-#### **2.** Realiza un algoritmo que permita calcular 'n' valores de la sucesion de fibonacci. 
+#### **2.** Realiza un algoritmo que permita calcular 'n' valores de la sucesion de fibonacci. El programa al finalizar debe preguntarle al usuario si desea realizar una nueva operación. 
 
-#### **3.** Realiza un algoritmo que muestre los primeros 'n' números primos.
+#### **3.** Realiza un algoritmo que muestre los primeros 'n' números primos. El programa al finalizar debe preguntarle al usuario si desea realizar una nueva operación.
+
+#### **4.** Realiza un menú que contenga todas las opciones de los ejercicios 1,2 y 3 invocando dichas funcionalidades dentro de funciones independientes. El programa al finalizar debe preguntarle al usuario si desea realizar una nueva operación.
